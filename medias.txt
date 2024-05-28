@@ -1,0 +1,10 @@
+6.26 alumno1
+5.53 alumno2
+5.9 alumno3
+4.91 alumno4
+3.72 alumno5
+6.79 alumno6
+5.52 alumno7
+5.86 alumno8
+5.27 alumno9
+5.51 alumno10
